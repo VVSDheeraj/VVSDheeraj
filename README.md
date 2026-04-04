@@ -13,6 +13,8 @@ My work spans robotics, computer vision, AI/ML, and backend engineering.
 
 I enjoy building intelligent systems for real-world applications.
 
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QpSemXMAAAAJ&hl=en)
+
 ----
 ### Get in touch
 
@@ -24,14 +26,19 @@ I enjoy building intelligent systems for real-world applications.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
+![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat-square&logo=gnu&logoColor=white)
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCC00?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
@@ -44,11 +51,9 @@ I enjoy building intelligent systems for real-world applications.
 ![Nav2](https://img.shields.io/badge/-Nav2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Isaac%20Sim](https://img.shields.io/badge/-Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
----
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVSDheeraj&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=8" />
-</p>
-
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
+![ANSYS](https://img.shields.io/badge/-ANSYS-FFB71B?style=flat-square)
 ----- 
 
 <p align="left">

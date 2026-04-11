@@ -5,7 +5,7 @@ I'm a Robotics and AI engineer with an M.Eng. in Robotics from the University of
 I'm currently working as an Artificial Intelligence Intern at Alpha Clinical Systems, where I'm building backend APIs and AI-driven workflows forpersonalized health and wellness workflows.
 
 Earlier, I worked as:
-- AI Engineer Intern at HealthHustler.ai
+- AI & CV Engineer Intern at HealthHustler.ai
 - Programmer Intern at Volpe Information Technology Group
 - Robotics Engineer Intern at Indus Instruments
 
